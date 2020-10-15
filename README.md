@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there my name is Will.👋
 
+Check out my latest machine learning/fractal project here :point_right: https://github.com/WillCheney/Chaos-Game-Representation 
 <!--
 **WillCheney/WillCheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
