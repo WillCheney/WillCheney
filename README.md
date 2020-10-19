@@ -1,6 +1,12 @@
 ### Hi there my name is Will.👋
 
-Check out my latest machine learning/fractal project here :point_right: https://github.com/WillCheney/Chaos-Game-Representation 
+Check out my latest machine learning/fractal project here :point_right: https://github.com/WillCheney/Chaos-Game-Representation <br>
+
+Concordia Logo (*E.coli* on Agar). Made using LabCyte Echo
+![example](https://github.com/WillCheney/WillCheney/blob/main/EchoLogo.JPG)
+
+
+
 <!--
 **WillCheney/WillCheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
