@@ -1,6 +1,6 @@
 ### Hi there my name is Will.👋
 
-Check out my latest machine learning/fractal project here :point_right: https://github.com/WillCheney/Chaos-Game-Representation <br>
+Check out my latest machine learning/fractal project here :point_right: https://github.com/WillCheney/Protein-CGR <br>
 
 Concordia Logo (*E.coli* on Agar). Made using LabCyte Echo
 ![example](https://github.com/WillCheney/WillCheney/blob/main/EchoLogo%20copy.jpg)
